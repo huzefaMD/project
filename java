@@ -1,1 +1,3 @@
-java is diff
+
+jav is diff
+java is easy
